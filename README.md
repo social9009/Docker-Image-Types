@@ -9,7 +9,7 @@
 
 **A hands-on demo comparing Docker base image types — sizes, use cases, and when to choose what.**
 
-*Built by [Akshay Sawant](mailto:akshaysawant9009@gmail.com) — AWS DevOps Engineer | Hinjawadi, Pune*
+*Built by [Akshay Sawant](mailto:akshaysawant9009@gmail.com) — AWS DevOps Engineer |  Pune*
 
 ---
 
